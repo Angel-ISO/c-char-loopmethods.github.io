@@ -1,0 +1,15 @@
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/bin/Debug/net7.0/loopDay_c#
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/bin/Debug/net7.0/loopDay_c#.deps.json
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/bin/Debug/net7.0/loopDay_c#.runtimeconfig.json
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/bin/Debug/net7.0/loopDay_c#.dll
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/bin/Debug/net7.0/loopDay_c#.pdb
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.csproj.AssemblyReference.cache
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.AssemblyInfoInputs.cache
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.AssemblyInfo.cs
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.csproj.CoreCompileInputs.cache
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.dll
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/refint/loopDay_c#.dll
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.pdb
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/loopDay_c#.genruntimeconfig.cache
+/home/apolm01-007/Documents/c-char-loopmethods.github.io/loopDay_c#/obj/Debug/net7.0/ref/loopDay_c#.dll
